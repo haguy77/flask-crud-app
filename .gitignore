@@ -1,3 +1,4 @@
 .idea/
 flasker/
 __pycache__/
+./db_web.db
